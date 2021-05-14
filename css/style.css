@@ -1,0 +1,40 @@
+.total-wrapper {
+  position: absolute;
+  top: 20%;
+  left: 30%;
+  height: 500px;
+  width: 400px;
+  background-color: lightblue;
+}
+.input {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.input {
+  width: 95%;
+  margin-left: 2%;
+}
+#input {
+  margin-top: 10px;
+  height: 4rem;
+  width: 80%;
+  font-size: 2.5rem;
+  padding-left: 20px;
+}
+#input:focus {
+  outline: none;
+}
+#Add {
+  height: 70px;
+  width: 60px;
+  margin-top: 9px;
+  font-size: 2rem;
+}
+#Add:focus {
+  outline: none;
+}
+.paragraph-style {
+  font-size: 1.5rem;
+  margin: 20px;
+}
